@@ -252,7 +252,7 @@ $products = $db->select('products', '*');
 
                         <!-- Card Footer -->
                         <div class="border-t border-gray-100 p-4 flex gap-2">
-                            <button class="flex-1 flex items-center justify-center gap-2 bg-blue-50 text-blue-700 px-4 py-2.5 rounded-xl font-medium hover:bg-blue-100 transition-all duration-200">
+                            <button onclick="window.location.href='./edit_product.php?id=<?php echo $product['id']; ?>'" class="flex-1 flex items-center justify-center gap-2 bg-blue-50 text-blue-700 px-4 py-2.5 rounded-xl font-medium hover:bg-blue-100 transition-all duration-200">
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path>
                                 </svg>
