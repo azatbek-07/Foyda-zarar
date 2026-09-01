@@ -96,13 +96,13 @@ Currently    → Full Stack Development + AI
 
 ## 🌱 What I Do
 
-🚀 Build modern web applications
-💻 Develop frontend and backend systems
-🗄️ Design and work with relational databases
-🔐 Implement authentication and authorization
-📊 Build business management systems
-🤖 Explore AI-powered applications
-📚 Continuously learn and improve
+- 🚀 Build modern web applications
+- 💻 Develop frontend and backend systems
+- 🗄️ Design and work with relational databases
+- 🔐 Implement authentication and authorization
+- 📊 Build business management systems
+- 🤖 Explore AI-powered applications
+- 📚 Continuously learn and improve
 
 
 ## 🎯 My Vision
