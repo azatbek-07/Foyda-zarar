@@ -1,38 +1,39 @@
 # 💰 Foyda-Zarar
 
-**Foyda-Zarar** — savdo do'konlari uchun mahsulotlarni boshqarish,
-savdolarni nazorat qilish va foyda-zararni hisoblashga mo'ljallangan
-web-ilova.
+**Foyda-Zarar** is a web application designed for small businesses
+and retail stores to manage products, track sales, and calculate
+profit and loss.
 
-Loyiha PHP va MySQL yordamida ishlab chiqilgan.
-
----
-
-## 📌 Loyiha haqida
-
-Ushbu loyiha orqali do'kon mahsulotlarini boshqarish,
-mahsulot qo'shish, tahrirlash va o'chirish hamda foydalanuvchi
-autentifikatsiyasini amalga oshirish mumkin.
-
-Loyiha kichik biznes va savdo do'konlarida hisob-kitob jarayonlarini
-raqamlashtirish g'oyasi asosida ishlab chiqilgan.
+The project was developed using **PHP and MySQL**.
 
 ---
 
-## ✨ Asosiy imkoniyatlar
+## 📌 About the Project
 
-- 🔐 Foydalanuvchini ro'yxatdan o'tkazish
-- 🔑 Login va Logout tizimi
-- 📦 Mahsulot qo'shish
-- ✏️ Mahsulotni tahrirlash
-- 🗑️ Mahsulotni o'chirish
-- 📋 Mahsulotlar ro'yxatini ko'rish
-- 💾 MySQL ma'lumotlar bazasi bilan ishlash
-- 📊 Mahsulotlar va savdo ma'lumotlarini boshqarish
+This project allows store owners and users to manage their products,
+including adding, editing, and deleting products.
+
+It also includes a user authentication system for secure access.
+
+The main goal of the project is to help small businesses digitize
+their product management and financial record-keeping processes.
 
 ---
 
-## 🛠️ Texnologiyalar
+## ✨ Features
+
+- 🔐 User registration
+- 🔑 Login and Logout system
+- 📦 Add new products
+- ✏️ Edit products
+- 🗑️ Delete products
+- 📋 View product list
+- 💾 MySQL database integration
+- 📊 Manage product and sales information
+
+---
+
+## 🛠️ Technologies
 
 ### Backend
 
@@ -50,7 +51,7 @@ raqamlashtirish g'oyasi asosida ishlab chiqilgan.
 
 ---
 
-## 📁 Loyiha strukturasi
+## 📁 Project Structure
 
 ```text
 Foyda-zarar/
@@ -72,7 +73,6 @@ Foyda-zarar/
 ├── database.sql
 │
 └── README.md
-```
 
 
 ## 👨‍💻 About Me
@@ -98,7 +98,7 @@ Currently    → Full Stack Development + AI
 
 - 🚀 Build modern web applications
 - 💻 Develop frontend and backend systems
-- 🗄️ Design and work with relational databases
+- 🗄️ Work with relational databases
 - 🔐 Implement authentication and authorization
 - 📊 Build business management systems
 - 🤖 Explore AI-powered applications
