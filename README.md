@@ -73,6 +73,7 @@ Foyda-zarar/
 ├── database.sql
 │
 └── README.md
+```
 
 
 ## 👨‍💻 About Me
